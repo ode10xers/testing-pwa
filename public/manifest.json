@@ -1,14 +1,14 @@
 {
-  "name": "The name of your application",
-  "short_name": "This name will show in your Windows taskbar, in the start menu, and Android homescreen",
-  "start_url": "The URL that should be loaded when your application is opened",
+  "name": "testing-pwa-ode",
+  "short_name": "testing-pwa-ode",
+  "start_url": "The URL thhttps://ode10xers.github.io/testing-pwa/at should be loaded when your application is opened",
   "display": "standalone",
   "description": "A description for your application",
-  "lang": " The default language of your application",
+  "lang": "en",
   "dir": "auto",
   "theme_color": "#000000",
   "background_color": "#000000",
-  "orientation": "any",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "https://www.pwabuilder.com/assets/icons/icon_512.png",
@@ -44,5 +44,6 @@
       "url": "The url you would like to open when the user chooses this shortcut. This must be a URL local to your PWA. For example: If my start_url is /, this URL must be something like /shortcut",
       "description": "A description of the functionality of this shortcut"
     }
-  ]
+  ],
+  "scope": "https://ode10xers.github.io/testing-pwa/"
 }
