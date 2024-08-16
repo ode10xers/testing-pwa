@@ -13,6 +13,7 @@ export const manifestForPlugIn = {
     theme_color: '#000000',
     background_color: '#000000',
     orientation: 'portrait',
+    id: 'testing-pwa-ode-123',
     icons: [
       {
         src: 'https://www.pwabuilder.com/assets/icons/icon_512.png',
